@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="click_me">CLICK ME!</string>
+    <string name="name_text">Name:</string>
+    <string name="genre_text">Genre:</string>
+    <string name="year_text">Year:</string>
+    <string name="add_game_text">Add game</string>
+</resources>
